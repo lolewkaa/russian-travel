@@ -10,7 +10,7 @@
   background-color:rgba(42, 44, 47, 0.9);
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1129px) {
   .cover__link {
     padding: 195px 232px 195px 232px;
   }
@@ -30,7 +30,7 @@
 
 @media (max-width: 498px) {
   .cover__link {
-      padding: 74px 60px 74px 60px;
+      padding: 33px 16px 33px 16px;
     }
 }
 
