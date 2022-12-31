@@ -9,4 +9,4 @@
 3. Относительные величины  
 4. Медиазапросы**  
   
-  [Ссылка на проект](https://lolewkaa.github.io/russian-travel/)
+  [Ссылка на проект](https://lolewkaa.github.io/russian-travel/index.html)
