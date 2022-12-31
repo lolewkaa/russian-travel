@@ -24,9 +24,9 @@
   }
 }
 
-@media screen and (max-width:590px) {
+@media screen and (max-width:594px) {
   .place {
-    max-width: 320px;
+    max-width: 100%;
     display: inline-grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;

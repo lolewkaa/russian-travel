@@ -8,11 +8,8 @@
     }
   }
 
-  
-
-@media screen and (max-width:594px) {
+  @media screen and (max-width:594px) {
     .place__container {
-      max-width: 288px;
-      margin: 0 16px;
+      max-width: 100%;
     }
   }
