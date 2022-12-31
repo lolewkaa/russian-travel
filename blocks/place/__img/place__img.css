@@ -1,0 +1,20 @@
+.place__img {
+  max-width: 460px;
+}
+@media screen and (max-width:1024px) {
+  .place__img {
+    max-width: 440px;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .place__img {
+    max-width: 340px;
+  }
+}
+
+@media screen and (max-width:594px) {
+  .place__img {
+    max-width: 320px;
+  }
+}

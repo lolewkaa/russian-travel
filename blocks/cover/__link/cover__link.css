@@ -1,0 +1,41 @@
+.cover__link {
+  display: block;
+  text-decoration: none;
+  padding: 245px 312px 245px 312px;
+  background-color:rgba(42, 44, 47, 0.3);
+  transition: 0.5s;
+}
+
+.cover__link:hover {
+  background-color:rgba(42, 44, 47, 0.9);
+}
+
+@media (max-width: 1024px) {
+  .cover__link {
+    padding: 195px 232px 195px 232px;
+  }
+}
+
+@media (max-width: 968px) {
+  .cover__link {
+      padding: 80px 128px 80px 128px;
+    }
+}
+
+@media (max-width: 768px) {
+    .cover__link {
+        padding: 115px 104px 115px 104px;
+      }
+}
+
+@media (max-width: 498px) {
+  .cover__link {
+      padding: 74px 60px 74px 60px;
+    }
+}
+
+@media (max-width: 320px) {
+    .cover__link {
+        padding: 33px 16px 33px 16px;
+      }
+}  

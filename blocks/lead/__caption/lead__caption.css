@@ -1,0 +1,22 @@
+.lead__caption {
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 1.4px;
+  color: white;
+  margin: 0;
+  padding: 8px 0 0 0;
+  min-width: 16%;
+}
+
+@media (max-width: 768px) {
+  .lead__caption {
+    padding: 8px 0 0 24px;
+  }
+}
+
+@media (max-width: 320px) {
+  .lead__caption {
+    padding-left: 8px 0 0 16px;
+
+  }
+}
