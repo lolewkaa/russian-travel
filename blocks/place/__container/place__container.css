@@ -1,5 +1,5 @@
 .place__container {
-    max-width: 456px;
+    max-width: 484px;
 }
 
 @media screen and (max-width:1024px) {
@@ -8,8 +8,21 @@
     }
   }
 
+  @media screen and (max-width:768px) {
+    .place__container {
+      max-width: 352px;
+    }
+  }
+
   @media screen and (max-width:594px) {
     .place__container {
       max-width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 320px) {
+    .place__container {
+      max-width: 288px;
+      margin: 0 16px;
     }
   }
