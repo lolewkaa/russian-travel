@@ -14,12 +14,12 @@
   }
 }
 
-/*@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .lead {
-    padding: 48px 48px 32px 48px;
+    margin: 48px 48px 32px 48px;
     
   }
-}*/
+}
 
 @media (max-width: 814px) {
   .lead {
