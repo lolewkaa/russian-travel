@@ -6,4 +6,10 @@
   line-height: 1.2;
   margin: 0;
   padding: 0;
+  transition: 0.5s;
 }
+
+.place__link:hover {
+  color: rgba(255, 255, 255, 0.5);
+}
+

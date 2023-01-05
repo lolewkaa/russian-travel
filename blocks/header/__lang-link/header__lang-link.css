@@ -5,18 +5,23 @@
   line-height: 1.2;
   margin: 18px 18px 6px 0;
   padding: 0;
+  transition: 0.5s;
+  text-decoration: none;
 }
 
-.header__lang-link:last-of-type {
+.header__lang-link:hover {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/*.header__lang-link:last-of-type {
   text-decoration: none;
   margin-right: 0;
-}
+}*/
 
 @media screen and (max-width: 320px) {
   .header__lang-link {
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.1;
     margin: 14px 18px 8px 0;
-    padding: 0;
   }
 }
