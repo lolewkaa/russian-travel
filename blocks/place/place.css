@@ -1,7 +1,7 @@
 .place {
   display: inline-grid;
   grid-template-columns: repeat(2, auto);
-  grid-template-rows: min-content / 1fr 1fr;
+  grid-template-rows: min-content;
   max-width: 984px;
   column-gap: 40px;
   row-gap: 48px;
@@ -23,6 +23,7 @@
   .place {
     max-width: 720px;
     column-gap: 28px;
+    margin-bottom: 73px;
   }
 }
 
