@@ -18,10 +18,3 @@
     font-size: 16px;
   }
 }
-
-
-@media screen and (max-width:343px) {
-  .place__paragraph {
-    line-height: 1.6;
-  }
-}
